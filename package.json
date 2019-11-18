@@ -1,0 +1,14 @@
+{
+  "name": "indy-rest",
+  "version": "0.1.0",
+  "description": "Indy Rest Wrapper",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "bs58": "^4.0.1",
+    "express": "^4.17.1",
+    "libsodium-wrappers": "^0.7.6",
+    "zeromq": "^5.2.0"
+  }
+}
